@@ -1,0 +1,72 @@
+System:
+  OS: Windows 7  (6.1.7600) 64bit
+  CPU: AMD A10-4600M APU with Radeon(tm) HD Graphics , count: 4
+  Physical RAM: 7646 MB
+  Addressable RAM: 2048 MB
+
+D3D9:
+  Renderer: AMD Radeon HD 7660G + 7670M Dual Graphics
+  VendorID: 1002
+  Driver: aticfx32.dll 8.17.10.1116
+  VRAM: 2476 (via DXGI)
+
+OpenGL:
+  Version: 4.2.11478 Compatibility Profile Context
+  Vendor: ATI Technologies Inc.
+  Renderer: AMD Radeon HD 7660G + 7670M Dual Graphics
+  VRAM: 2476 (via DXGI)
+  Extensions: GL_AMDX_debug_output GL_AMDX_vertex_shader_tessellator GL_AMD_blend_minmax_factor GL_AMD_conservative_depth GL_AMD_debug_output GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_multi_draw_indirect GL_AMD_name_gen_delete GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_sample_positions GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trace GL_AMD_texture_cube_map_array GL_AMD_texture_texture4 GL_AMD_transform_feedback3_lines_triangles GL_AMD_vertex_shader_tessellator GL_ARB_ES2_compatibility GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_explicit_attrib_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_provoking_vertex GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counters GL_ARB_shader_bit_encoding GL_ARB_shader_image_load_store GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_subroutine GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_shadow_ambient GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_snorm GL_ARB_texture_storage GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_envmap_bumpmap GL_ATI_fragment_shader GL_ATI_meminfo GL_ATI_separate_stencil GL_ATI_texture_compression_3dc GL_ATI_texture_env_combine3 GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_copy_buffer GL_EXT_copy_texture GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_histogram GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_specular_color GL_EXT_shader_image_load_store GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_EXT_subtexture GL_EXT_texgen_reflection GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_bptc GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_add GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_texture_mirrored_repeat GL_KTX_buffer_region GL_NV_blend_square GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_explicit_multisample GL_NV_float_buffer GL_NV_half_float GL_NV_primitive_restart GL_NV_texgen_reflection GL_NV_texture_barrier GL_SGIS_generate_mipmap GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod GL_SUN_multi_draw_arrays GL_WIN_swap_hint WGL_EXT_swap_control
+
+User locale: ru-RU
+System locale: ru-RU
+
+Running processes:
+PCSuite.exe (2192)
+    path: C:\Program Files (x86)\Nokia\Nokia PC Suite 7\PCSuite.exe
+    company:  Nokia
+    product:  PC Suite
+    filedesc: Nokia Launch Application
+    filever:  7.1.72.0
+    prodver:  7.1.72.0
+uTorrent.exe (2232)
+    path: C:\Users\IT\AppData\Roaming\uTorrent\uTorrent.exe
+    company:  BitTorrent Inc.
+    product:  µTorrent
+    filedesc: µTorrent
+    filever:  3.4.1.30740
+    prodver:  3.4.1.30740
+TRUUpdater.exe (2496)
+    path: C:\Program Files (x86)\Sierra Wireless Inc\WebUpdater\TRUUpdater.exe
+    company:  Sierra Wireless, Inc.
+    product:  Sierra Wireless Updater
+    filedesc: Sierra Wireless Updater 
+    filever:  1.3.1.0
+    prodver:  1.3.1.0
+WaHelper.exe (2516)
+    path: C:\Program Files (x86)\Sierra Wireless Inc\Watcher\WaHelper.exe
+    company:  Sierra Wireless Inc.
+    product:   WatcherHelper Application
+    filedesc: WatcherHelper Application
+    filever:  1.2.1.7
+    prodver:  1.2.1.7
+VKSaver.exe (2524)
+    path: C:\ProgramData\VKSaver\VKSaver.exe
+    company:  AudioVkontakte.ru
+    product:  VKSaver
+    filedesc: VKSaver tray proxy for saving music from vk.com
+    filever:  3.3.6907.1470
+    prodver:  3.3.6907.1470
+AIMP3.exe (1892)
+    path: C:\Program Files (x86)\AIMP3\AIMP3.exe
+    company:  AIMP DevTeam
+    product:  AIMP3
+    filedesc: AIMP3
+    filever:  3.2.0.1165
+    prodver:  3.2.0.1165
+UnityBugReporter.exe (4524)
+    path: D:\œ–Œ√–¿Ã»\¬ÒÚ‡ÌÓ‚ÎÂÌË\ÕÓ‚‡ˇ Ô‡ÔÍ‡\Editor\UnityBugReporter.exe
+    company:  Unity Technologies ApS
+    product:  Unity Bug Reporter
+    filedesc: Unity Bug Reporter
+    filever:  4.3.1.28294
+    prodver:  4.3.1.28294
